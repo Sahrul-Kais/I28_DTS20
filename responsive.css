@@ -15,7 +15,9 @@
 
 @media all and (max-width: 670px){
 	.header-right a{
-		display:inline-block;
+		display:inline;
+		padding:0 10px;
+		
 	}
 	
 	header{

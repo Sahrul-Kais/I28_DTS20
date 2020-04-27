@@ -41,6 +41,8 @@
 	}
 	
 	.message-wrapper{
-	position:absolute;
+		position:absolute;
+		margin-top:500px;
+		padding-top:500px
 	}
 }

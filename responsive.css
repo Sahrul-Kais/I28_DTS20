@@ -14,10 +14,6 @@
   }
 
 @media all and (max-width: 670px){
-	.margin-right a{
-		margin-right: -1000px;
-	}
-	
 	.lesson {
 		width: 100%;
 	}
@@ -42,5 +38,15 @@
 	.top-wrapper h2 {
 		font-size: 14px;
 		line-height: 20px;
+	}
+	
+	.message-wrapper {
+		height: 500px;
+		width: 50%;
+		padding-bottom: 80px;
+		text-align: left;
+		color: white;
+		background-color: #414042;
+		position: none;
 	}
 }

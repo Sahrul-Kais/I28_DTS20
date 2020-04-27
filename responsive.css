@@ -14,8 +14,8 @@
   }
 
 @media all and (max-width: 670px){
-	header{
-		text-align: center;
+	header-left{
+		width:100%;
 	}
 	
 	.lesson {

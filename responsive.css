@@ -15,7 +15,7 @@
 
 @media all and (max-width: 670px){
 	header{
-		display:relative;
+		position:relative;
 		width:100%;
 	}
 	

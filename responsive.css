@@ -48,6 +48,6 @@
 		text-align: left;
 		color: white;
 		background-color: #414042;
-		position: absolute;
+		display:inline-block;
 	}
 }

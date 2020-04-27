@@ -50,7 +50,7 @@
   }
 	
 .message-wrapper img{
-	position: relative;
+	display:inline-block;
 	padding-top:100px;
 }
 }

@@ -14,17 +14,9 @@
   }
 
 @media all and (max-width: 670px){
-	.header-right a{
-		display:inline;
-	}
-	
 	.header-right{
-		float:none;
+		float:left;
 		margin-left: 0;
-	}
-	
-	header{
-		width:100%;
 	}
 	
 	.lesson {

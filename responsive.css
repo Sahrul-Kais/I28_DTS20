@@ -14,7 +14,7 @@
   }
 
 @media all and (max-width: 670px){
-  .header-right{
+  .header{
 	  display:none;
 	  width:100%;
   }

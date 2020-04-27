@@ -14,9 +14,8 @@
   }
 
 @media all and (max-width: 670px){
-	.header-right{
+	.header-right a{
 		float:left;
-		margin-left: 0;
 	}
 	
 	.lesson {

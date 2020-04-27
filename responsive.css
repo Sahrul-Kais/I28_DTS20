@@ -39,11 +39,4 @@
 		font-size: 14px;
 		line-height: 20px;
 	}
-	
-	.message-wrapper{
-		display:block;
-		position:absolute;
-		margin-top:500px;
-		padding-top:500px
-	}
 }

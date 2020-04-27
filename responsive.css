@@ -43,10 +43,4 @@
     font-size: 14px;
     line-height: 20px;
   }
-  
-  .message-wrapper{
-    z-index:9999999;
-    padding-bottom:2px;
-  }
-  
 }

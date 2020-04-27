@@ -14,16 +14,6 @@
   }
 
 @media all and (max-width: 670px){
-	header {
-		height: 2px;
-		width: 100%;
-		line-height: 65px;
-		color: #fff;
-		position: relative;
-		top: 0;
-		z-index: 0;
-	}
-	
 	.lesson {
 		width: 100%;
 	}

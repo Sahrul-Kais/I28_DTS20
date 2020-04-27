@@ -1,9 +1,8 @@
 @media all and (max-width: 1000px){
 	.header-right a {
-		line-height: 0;
-		padding: 0;
-		color: black;
-		display: none;
+		display:inline-block;
+		float:left;
+		margin-left:-100px;
 	}
 	
 	.lesson {

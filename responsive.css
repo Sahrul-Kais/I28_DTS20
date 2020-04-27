@@ -14,10 +14,9 @@
   }
 
 @media all and (max-width: 670px){
-	header{
-	display:inline-block;
-	width:100%;
-	}
+  .header-right{
+    display:none;
+  }
   .lesson {
     width: 100%;
   }

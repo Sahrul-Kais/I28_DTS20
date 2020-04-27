@@ -14,13 +14,6 @@
   }
 
 @media all and (max-width: 670px){
-	.header-right a{
-		float:none;
-		display:none;
-		padding:0;
-		width:auto;
-	}
-	
 	.lesson {
 		width: 100%;
 	}

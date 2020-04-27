@@ -41,13 +41,6 @@
 	}
 	
 	.message-wrapper {
-		height: 500px;
-		width: 50%;
-		padding-top:80px;
-		padding-bottom: 80px;
-		text-align: left;
-		color: white;
-		background-color: #414042;
 		display:inline-block;
 	}
 }

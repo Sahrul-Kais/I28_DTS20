@@ -49,8 +49,8 @@
     line-height: 20px;
   }
 	
-.message-wrapper img {
-  max-height: 400px;
-  padding-top: 100px;
+.message-wrapper{
+	display: inline-block;
+	padding-top:100px;
 }
 }

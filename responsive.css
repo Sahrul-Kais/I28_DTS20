@@ -14,7 +14,10 @@
   }
 
 @media all and (max-width: 670px){
-	.lesson {
+	header{
+	width:100%;
+	}
+  .lesson {
     width: 100%;
   }
   

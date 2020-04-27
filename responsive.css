@@ -50,7 +50,7 @@
   }
 	
 .message-wrapper{
-	display: inline-block;
+	display: block;
 	padding-top:100px;
 }
 }

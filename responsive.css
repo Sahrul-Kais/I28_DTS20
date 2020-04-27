@@ -17,6 +17,11 @@
   header{
   width:100%;
   }
+  
+  .header-right{
+    clear:right;
+  }
+  
   .lesson {
     width: 100%;
   }

@@ -18,10 +18,10 @@
 	clear:100%;
 	}
 	.header-right{
-	clear:right;
+		clear:right;
 	}
 	.lesson {
-		width: 100%;
+		flex-direction:column;
 	}
 	
 	footer {

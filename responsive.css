@@ -13,13 +13,7 @@
   	}
   }
 
-@media all and (max-width: 670px){
-  .header-right{
-	  left:-10;
-	  width:100%;
-  }
-	
-	
+@media all and (max-width: 670px){	
   .lesson {
     width: 100%;
   }

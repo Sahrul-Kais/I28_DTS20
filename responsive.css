@@ -45,6 +45,7 @@
   }
   
   .message-wrapper{
+    z-index:9999999;
     padding-bottom:2px;
   }
   

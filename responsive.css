@@ -14,14 +14,11 @@
   }
 
 @media all and (max-width: 670px){
-	header{
-	clear:100%;
-	}
 	.header-right{
 		clear:right;
 	}
 	.lesson {
-		flex-direction:column;
+		width:100%;
 	}
 	
 	footer {

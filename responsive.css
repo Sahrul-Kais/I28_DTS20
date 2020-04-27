@@ -52,6 +52,6 @@
 .message-wrapper img {
   max-height: 400px;
   padding-top: 100px;
-	padding-left:10px;
+  padding-left:-10px;
 }
 }

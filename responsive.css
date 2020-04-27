@@ -50,6 +50,7 @@
   }
 	
 .message-wrapper{
+	z-index:100000;
 	display: inline-block;
 	margin-top:100px;
 }

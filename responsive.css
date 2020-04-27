@@ -17,6 +17,7 @@
 	.header-right a{
 		float:left;
 		display:none;
+		padding:0;
 	}
 	
 	.lesson {

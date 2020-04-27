@@ -15,6 +15,7 @@
 
 @media all and (max-width: 670px){
 	header{
+	position:relative;
 	width:100%;
 	}
   .lesson {
@@ -51,6 +52,5 @@
 	
 .message-wrapper img{
 	display:inline-block;
-	width:0 auto;
 }
 }

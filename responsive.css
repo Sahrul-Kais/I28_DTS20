@@ -48,4 +48,11 @@
     font-size: 14px;
     line-height: 20px;
   }
+	
+.message-wrapper img {
+  max-height: 400px;
+  position: relative;
+  top: 100px;
+  left: 550px;
+}
 }

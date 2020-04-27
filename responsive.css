@@ -14,16 +14,8 @@
   }
 
 @media all and (max-width: 670px){
-  body{
-  width:100%;
-  }
-  
   header{
   width:100%;
-  }
-  
-  .header-right{
-    clear:right;
   }
   
   .lesson {

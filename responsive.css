@@ -18,9 +18,6 @@ width:25%;
   }
 
 @media all and (max-width: 670px){
-	.header-left{
-	width:100%;
-	}
 	.lesson {
 		width: 100%;
 	}
